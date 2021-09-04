@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjali Srivastava</h1>
-<h3 align="center">A computer-science student seeking various opportunities to gain experience and to enhance my skills.</h3>
+<h3 align="center">A computer science student seeking various opportunities to gain experience and to enhance my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalix3&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalix3" /> </p>
 
