@@ -10,6 +10,9 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/pranjali-srivastava-a00309197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranjali-srivastava-a00309197" height="30" width="40" /></a>
 <a href="https://instagram.com/pranjalix3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranjalix3" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalix3&show_icons=true&locale=en&layout=compact" alt="pranjalix3" /></p>
 
