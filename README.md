@@ -15,7 +15,7 @@
   <img align="right" height="270px" width="350" src="coder gif.gif" /> </a>
 
 </p>
-<p><img align="center" height="300px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalix3&" alt="pranjalix3" /></p>
+<p><img align="center" height="150px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalix3&" alt="pranjalix3" /></p>
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
