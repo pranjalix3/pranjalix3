@@ -15,8 +15,6 @@
   <img align="right" height="270px" width="350" src="coder gif.gif" /> </a>
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalix3&show_icons=true&locale=en&layout=compact" alt="pranjalix3" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalix3&" alt="pranjalix3" /></p>
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
